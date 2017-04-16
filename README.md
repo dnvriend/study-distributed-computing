@@ -32,6 +32,12 @@ __Cons:__
 If you've got a vector clock conflict, the conflict must be resolved
 either automatically or manually (user decision).
 
+## Papers
+- [Amazon Dynamo Paper](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+
+## Resources
+- [DS201: DataStax Enterprise Foundations of Apache Cassandra](https://academy.datastax.com/resources/ds201-foundations-apache-cassandra)
+
 ## Blogs
 - [Why Vector Clocks are Easy - Basho](http://basho.com/posts/technical/why-vector-clocks-are-easy/)
 - [Why Vector Clocks are Hard - Basho](http://basho.com/posts/technical/why-vector-clocks-are-hard/)
